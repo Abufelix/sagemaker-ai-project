@@ -59,6 +59,6 @@ This project demonstrates how Amazon SageMaker simplifies the development and de
 
 ## 👤 Author
 
-* Your Name
+* Abu Emmanuel Felix
 
 ---
